@@ -1,2 +1,2 @@
 # My_Projcet
-First Git Project
+First Git Project (by NK)
